@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm 404CoderFound</h1>
 <h3 align="center">A in development coder from the UK</h3>
 
-- 🔭 I’m currently working on [watermelon_ddos](https://github.com/404CoderFound/watermelon_ddos)
-
 - 🌱 I’m currently learning **Python**
 
 - ⚡ Discord **$ watermelon#5101**
